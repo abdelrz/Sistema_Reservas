@@ -14,22 +14,22 @@
 - Gestión de pagos:
 ![gestion-pagos](https://github.com/user-attachments/assets/415ba7cb-4513-4c1f-adf3-9d59524588f9)
 - Ingreso de datos de cliente:
-![nuevo-cliente](https://github.com/abdelrz/Sistema_Imperial_Inn/assets/102103267/4c5373c9-6e34-4a36-8d63-5bd29c8d4214)
+![nuevo-cliente](https://github.com/user-attachments/assets/9a98c8f6-9b09-4f53-a812-7ba897088135)
 - Ingreso de datos de reserva:
-![nueva-reserva](https://github.com/abdelrz/Sistema_Imperial_Inn/assets/102103267/d2bf7a7f-4b34-4143-b0ed-0274613b51d8)
+![nueva-reserva](https://github.com/user-attachments/assets/e2762329-480b-4c5b-9db8-e4ed79a5e669)
 - Ingreso de datos de pago:
-![nuevo-pago](https://github.com/abdelrz/Sistema_Imperial_Inn/assets/102103267/38f76864-a8da-451f-8224-fdeaebd924a9)
+![nuevo-pago](https://github.com/user-attachments/assets/d37fe1c2-e83b-4e5b-a805-8be700882d54)
 - Informe de ingresos:
-![informe-ingresos](https://github.com/abdelrz/Sistema_Imperial_Inn/assets/102103267/dd003cc9-d7dc-44d4-a738-c5624b221734)
+![informe-ingresos](https://github.com/user-attachments/assets/3d293286-106b-491e-bec0-cc1ddf97796d)
 - Informe de reservas:
-![informe-reservas](https://github.com/abdelrz/Sistema_Imperial_Inn/assets/102103267/d596feb2-ab5e-4d39-8eb9-607c2f91b071)
+![informe-reservas](https://github.com/user-attachments/assets/33ece099-bfeb-44df-b210-f04342bb0bc3)
 - Gráfico de ingresos:
-![grafico-ingresos](https://github.com/abdelrz/Sistema_Imperial_Inn/assets/102103267/0aba59f3-b044-483a-a613-8e1fe2f35a74)
+![grafico-ingresos](https://github.com/user-attachments/assets/d99a5002-c9bc-4c8d-8b1c-04e57c8564fd)
 - Gráfico de reservas:
-![grafico-reservas](https://github.com/abdelrz/Sistema_Imperial_Inn/assets/102103267/df5d9c81-dba0-4f60-a8e3-38a8d9227ede)
+![grafico-reservas](https://github.com/user-attachments/assets/ce5a73d4-a155-4fce-b851-0215c23c6a13)
 - Validaciones del sistema (solo se muestran algunas):
-![validacion-eliminar-cliente](https://github.com/abdelrz/Sistema_Imperial_Inn/assets/102103267/5cde341b-adbb-4ef2-ae09-13c4e16112dc)
-![validacion-nueva-reserva](https://github.com/abdelrz/Sistema_Imperial_Inn/assets/102103267/5010b66b-58e5-41d2-867c-93d1b0cfec8c)
+![validacion-eliminar-cliente](https://github.com/user-attachments/assets/1d1fc14d-2dea-4b11-9f22-b21245e8c999)
+![validacion-nueva-reserva](https://github.com/user-attachments/assets/e0a0f7d2-dc02-4a6a-94aa-230d7c247730)
 ## Características del Sistema
 - Permite gestionar los clientes, reservas y pagos.
 - El inicio de sesión cuenta con encriptación en la contraseña.
@@ -37,7 +37,7 @@
 - Los datos de clientes, reservas, pagos e informes se pueden exportar a Excel.
 ## Características Técnicas del Sistema
 - Modelo de datos físico:
-![imperial drawio](https://github.com/abdelrz/Sistema_Imperial_Inn/assets/102103267/1cbc36db-d6c4-42f6-8b4b-094470f6d46b)
+![imperial drawio](https://github.com/user-attachments/assets/132127ce-d7ac-41d3-989a-e38fba818791)
 - Estructura de proyecto:
 
-![estructura-carpetas](https://github.com/abdelrz/Sistema_Imperial_Inn/assets/102103267/f41a3b44-4cbd-454c-83a4-80883b412b3f)
+![estructura-carpetas](https://github.com/user-attachments/assets/da8e09c6-b78d-4c34-862d-6d60971d2ae1)
