@@ -4,15 +4,15 @@
 
 ## Imágenes del sistema
 - Iniciar Sesión:
-![inicio_sesion](https://github.com/abdelrz/Sistema_Imperial_Inn/assets/102103267/6ceb2382-7581-46ab-b05f-0ef1ae8955f5)
+![inicio_sesion](https://github.com/user-attachments/assets/21e95b27-574b-45b3-a49d-e8709789cbc7)
 - Menú principal:
-![menu-principal](https://github.com/abdelrz/Sistema_Imperial_Inn/assets/102103267/32dc8b39-4173-47a1-bf0b-555588a082ca)
+![menu-principal](https://github.com/user-attachments/assets/224efe47-ae1f-42e5-a2ef-e8db9bae2494)
 - Gestión de clientes:
-![gestion-clientes](https://github.com/abdelrz/Sistema_Imperial_Inn/assets/102103267/8ab68984-1d3e-4d87-a34a-71688c99ed92)
+![gestion-clientes](https://github.com/user-attachments/assets/a69208c1-4932-47dd-a14f-1a44a5f39223)
 - Gestión de reservas:
-![gestion-reservas](https://github.com/abdelrz/Sistema_Imperial_Inn/assets/102103267/0aca3631-3fc3-435a-9ba8-74109df84bf3)
+![gestion-reservas](https://github.com/user-attachments/assets/b1dde310-a5a7-4ab2-9ffe-60b59c16b214)
 - Gestión de pagos:
-![gestion-pagos](https://github.com/abdelrz/Sistema_Imperial_Inn/assets/102103267/1e93f8a4-ab8a-4832-abd5-0cf0c8501879)
+![gestion-pagos](https://github.com/user-attachments/assets/415ba7cb-4513-4c1f-adf3-9d59524588f9)
 - Ingreso de datos de cliente:
 ![nuevo-cliente](https://github.com/abdelrz/Sistema_Imperial_Inn/assets/102103267/4c5373c9-6e34-4a36-8d63-5bd29c8d4214)
 - Ingreso de datos de reserva:
